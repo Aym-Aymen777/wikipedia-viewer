@@ -1,5 +1,5 @@
 # 🌐 Wikipedia Viewer App
-[!wiki preview](./src/assets/image.png)
+![wiki preview](./src/assets/image.png)
 ## 🚀 Overview
 
 A sleek React application that lets you explore Wikipedia with ease, search articles, and discover random knowledge!
